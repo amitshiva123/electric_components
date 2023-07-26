@@ -1,0 +1,38 @@
+{
+"Component1" : {
+  "name" : "Capacitor",
+  "purpose" : "Hold_charge",
+  "Unit_of_measurment" : "Farad",
+  "Made_of" : "Electrode_dielectric",
+  "Types" : "Electrolytic,Ceramic",
+ "Image" : "https://components101.com/sites/default/files/components/Electrolytic-capacitor.jpg"
+
+},
+  "Component2" : {
+  "name" : "Resistor",
+  "purpose" : "limit_current",
+  "Unit_of_measurment" : "Ω",
+  "Made_of" : "Electrode_dielectric",
+ "Types" : "Electrolytic,Ceramic",
+ "Image" : "https://media.digikey.com/Renders/TE%20Connectivity/120-Ohm-5%25-ROX,-Neohm.jpg"
+  
+},
+  "Component3" : {
+  "name" : "diode",
+  "purpose" : "make current only flow one way",
+    "can be used for" : "making a full bridge rectifier",
+  "Made_of" : "Germanium,Silicon",
+ "Types" : "Germanium,Silicon,LED",
+ "Image" : "https://www.mouser.com/images/vishay/images/do35.jpg"
+  }, 
+
+    "Component3" : {
+  "name" : "diode",
+  "purpose" : "make current only flow one way",
+    "can be used for" : "making a full bridge rectifier",
+  "Made_of" : "Germanium,Silicon",
+ "Types" : "Germanium,Silicon,LED",
+ "Image" : "https://www.mouser.com/images/vishay/images/do35.jpg"
+  } 
+  
+  

@@ -26,13 +26,124 @@
  "Image" : "https://www.mouser.com/images/vishay/images/do35.jpg"
   }, 
 
-    "Component3" : {
-  "name" : "diode",
-  "purpose" : "make current only flow one way",
-    "can be used for" : "making a full bridge rectifier",
-  "Made_of" : "Germanium,Silicon",
- "Types" : "Germanium,Silicon,LED",
- "Image" : "https://www.mouser.com/images/vishay/images/do35.jpg"
+    "Component4" : {
+  "name" : "battery",
+  "purpose" : "To store energy",
+    "can be used for" : "powering an led",
+  "Made_of" : "Lead,graphite,zinc,sulfuric-acid,aluminum",
+ "Types" : "coincell,9_volt,AA,AAA,12V,18V",
+ "Image" : "https://media.digikey.com/photos/Duracell-Industrial-Operations/MFG_AA-MN1500.jpg"
+  },   
+      
+ "Component5" : {
+  "name" : "transistor",
+  "purpose" : "switch, amplifier, ",
+    "can be used for" : "blinking_LED",
+  "Made_of" : "silicon,germanium",
+ "Types" : "NPN, PNP, MOSFET",
+ "Image" : "https://media.digikey.com/photos/Duracell-Industrial-Operations/MFG_AA-MN1500.jpg"
+  }, 
+  
+ "Component6" : {
+  "name" : "inductor",
+  "purpose" : "Controll_Current",
+    "can be used for" : "Limiting_AC",
+  "Made_of" : "Copper,Aluminum,Litz,Paper",
+ "Types" : "Air_core, Ferite_Core",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  "Component7" : {
+  "name" : "wire",
+  "purpose" : "move_current",
+    "can be used for" : "making_a_circut",
+  "Made_of" : "Copper,Aluminum,Litz",
+ "Types" : "jumper,silicone,copperclad",
+ "Image" : "https://www.familyhandyman.com/wp-content/uploads/2018/08/068_FHM_SEP18-1.jpg?fit=700,699"
+  }, 
+
+  "Component"8 : {
+  "name" : "operation_amplifier",
+  "purpose" : "Amplify with a huge gain",
+    "can be used for" : "amplifying_music",
+  "Made_of" : "silicon",
+ "Types" : "LM386,TL082,",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  "Component9" : {
+  "name" : "inductor",
+  "purpose" : "Controll_Current",
+    "can be used for" : "Limiting_AC",
+  "Made_of" : "Copper,Aluminum,Litz,Paper",
+ "Types" : "Air_core, Ferite_Core",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  "Component10" : {
+  "name" : "inductor",
+  "purpose" : "Controll_Current",
+    "can be used for" : "Limiting_AC",
+  "Made_of" : "Copper,Aluminum,Litz,Paper",
+ "Types" : "Air_core, Ferite_Core",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  "Component6" : {
+  "name" : "inductor",
+  "purpose" : "Controll_Current",
+    "can be used for" : "Limiting_AC",
+  "Made_of" : "Copper,Aluminum,Litz,Paper",
+ "Types" : "Air_core, Ferite_Core",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  "Component6" : {
+  "name" : "inductor",
+  "purpose" : "Controll_Current",
+    "can be used for" : "Limiting_AC",
+  "Made_of" : "Copper,Aluminum,Litz,Paper",
+ "Types" : "Air_core, Ferite_Core",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  "Component6" : {
+  "name" : "inductor",
+  "purpose" : "Controll_Current",
+    "can be used for" : "Limiting_AC",
+  "Made_of" : "Copper,Aluminum,Litz,Paper",
+ "Types" : "Air_core, Ferite_Core",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  "Component6" : {
+  "name" : "inductor",
+  "purpose" : "Controll_Current",
+    "can be used for" : "Limiting_AC",
+  "Made_of" : "Copper,Aluminum,Litz,Paper",
+ "Types" : "Air_core, Ferite_Core",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  "Component6" : {
+  "name" : "inductor",
+  "purpose" : "Controll_Current",
+    "can be used for" : "Limiting_AC",
+  "Made_of" : "Copper,Aluminum,Litz,Paper",
+ "Types" : "Air_core, Ferite_Core",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  "Component6" : {
+  "name" : "inductor",
+  "purpose" : "Controll_Current",
+    "can be used for" : "Limiting_AC",
+  "Made_of" : "Copper,Aluminum,Litz,Paper",
+ "Types" : "Air_core, Ferite_Core",
+ "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  }, 
+
+  
   } 
   
   

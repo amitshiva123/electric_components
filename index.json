@@ -12,7 +12,7 @@
   "name" : "Resistor",
   "purpose" : "limit_current",
   "Unit_of_measurment" : "Ω",
-  "Made_of" : "Electrode_dielectric",
+  "Made_of" : "Ceramic,Graphite",
  "Types" : "Electrolytic,Ceramic",
  "Image" : "https://media.digikey.com/Renders/TE%20Connectivity/120-Ohm-5%25-ROX,-Neohm.jpg"
   
@@ -44,15 +44,7 @@
  "Image" : "https://media.digikey.com/photos/Duracell-Industrial-Operations/MFG_AA-MN1500.jpg"
   }, 
   
- "Component6" : {
-  "name" : "inductor",
-  "purpose" : "Controll_Current",
-    "can be used for" : "Limiting_AC",
-  "Made_of" : "Copper,Aluminum,Litz,Paper",
- "Types" : "Air_core, Ferite_Core",
- "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
-  }, 
-
+ 
   "Component7" : {
   "name" : "wire",
   "purpose" : "move_current",
@@ -62,7 +54,7 @@
  "Image" : "https://www.familyhandyman.com/wp-content/uploads/2018/08/068_FHM_SEP18-1.jpg?fit=700,699"
   }, 
 
-  "Component"8 : {
+  "Component8" :  {
   "name" : "operation_amplifier",
   "purpose" : "Amplify with a huge gain",
     "can be used for" : "amplifying_music",
@@ -81,68 +73,57 @@
   }, 
 
   "Component10" : {
-  "name" : "inductor",
-  "purpose" : "Controll_Current",
-    "can be used for" : "Limiting_AC",
-  "Made_of" : "Copper,Aluminum,Litz,Paper",
+  "name" : "breadboard",
+  "purpose" : "make circuits",
+    "can be used for" : "making an LED glow",
+  "Made_of" : "Copper,Aluminum,Steel,Plastic",
+ "Types" : "Mini,halfsize,fullsize",
+ "Image" : "https://www.newark.com/productimages/standard/en_US/5167413.jpg"
+  }, 
+
+  "Component11" : {
+  "name" : "motor",
+  "purpose" :"convert elctrical energy into mechanical energy",
+    "can be used for" : "making a motor",
+  "Made_of" : "Copper,Aluminum,Plastic,Ferite,Iron",
+ "Types" : "Brush,Brushless",
+ "Image" : "https://media.digikey.com/Photos/Pololu/100-1-6V-Micro-Gearmotor.jpg"
+  }, 
+
+  "Component12" : {
+  "name" : "Servo_motor",
+  "purpose" : "Controll Mechanical  Movement",
+    "can be used for" : "Making a robot",
+  "Made_of" : "Copper,Aluminum,Litz,Paper,Ceramic",
  "Types" : "Air_core, Ferite_Core",
  "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
   }, 
 
-  "Component6" : {
-  "name" : "inductor",
-  "purpose" : "Controll_Current",
-    "can be used for" : "Limiting_AC",
-  "Made_of" : "Copper,Aluminum,Litz,Paper",
- "Types" : "Air_core, Ferite_Core",
- "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  "Component13" : {
+  "name" : "PCB",
+  "purpose" : "Making Permanent Connections",
+    "can be used for" : "Making a computer",
+  "Made_of" : "Copper,Aluminum,,fiberglass",
+ "Types" : "Solid,Flexable",
+ "Image" : "https://www.circuitbasics.com/wp-content/uploads/2016/06/How-to-Make-a-Custom-PCB-PCB-Final-Image.jpg"
   }, 
 
-  "Component6" : {
-  "name" : "inductor",
-  "purpose" : "Controll_Current",
-    "can be used for" : "Limiting_AC",
-  "Made_of" : "Copper,Aluminum,Litz,Paper",
- "Types" : "Air_core, Ferite_Core",
- "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
+  "Component14" : {
+  "name" : "speaker",
+  "purpose" : "play sound",
+    "can be used for" : "making a subwoofer",
+  "Made_of" : "Copper,Aluminum,Litz,Plastic,Ferite,Iron,Rubber",
+ "Types" : "Woofer,Tweater",
+ "Image" : "https://media.digikey.com/Photos/CUI%20Photos/MFG_CSS-66668N.JPG"
   }, 
 
-  "Component6" : {
-  "name" : "inductor",
-  "purpose" : "Controll_Current",
-    "can be used for" : "Limiting_AC",
-  "Made_of" : "Copper,Aluminum,Litz,Paper",
- "Types" : "Air_core, Ferite_Core",
- "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
-  }, 
-
-  "Component6" : {
-  "name" : "inductor",
-  "purpose" : "Controll_Current",
-    "can be used for" : "Limiting_AC",
-  "Made_of" : "Copper,Aluminum,Litz,Paper",
- "Types" : "Air_core, Ferite_Core",
- "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
-  }, 
-
-  "Component6" : {
-  "name" : "inductor",
-  "purpose" : "Controll_Current",
-    "can be used for" : "Limiting_AC",
-  "Made_of" : "Copper,Aluminum,Litz,Paper",
- "Types" : "Air_core, Ferite_Core",
- "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
-  }, 
-
-  "Component6" : {
-  "name" : "inductor",
-  "purpose" : "Controll_Current",
-    "can be used for" : "Limiting_AC",
-  "Made_of" : "Copper,Aluminum,Litz,Paper",
- "Types" : "Air_core, Ferite_Core",
- "Image" : "https://cdn1.vogel.de/CZfNzx6_1xeGfNJuuymSmdNwmOM=/fit-in/800x0/p7i.vogel.de/wcms/58/e7/58e74eb32dfa993f2546200abdc274e0/93633082.jpeg"
-  }, 
-
+  "Component15" : {
+  "name" : "DIAC",
+  "purpose" : "Controll a Circuit",
+    "can be used for" : "Automatic_Lamp",
+  "Made_of" : "Silicon",
+ "Image" : "https://components101.com/sites/default/files/inline-images/DIAC.png"
+  }
   
   } 
   
